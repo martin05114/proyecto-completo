@@ -1,0 +1,13 @@
+
+.menu {
+    background: rgb(23, 219, 160);
+    color: black
+
+}
+
+.menu li {
+    list-style: none;
+    padding: 20px;
+    font: bold 14px verdana;
+    display: inline-block;
+}

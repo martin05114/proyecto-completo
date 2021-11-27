@@ -1,0 +1,28 @@
+.KILO {
+    background: rgb(29, 202, 150);
+    color: rgba(3, 19, 32, 0.904);
+    padding: 22px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 100%;
+    float: center;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.KILO article{
+    font-size: 10px;
+    background-color:rgb(194, 246, 246) ;
+}
+.KILO h2 {
+    font-size: 20px;
+    font-family: 'Lobster', cursive ;
+    font-weight: lighter;
+    background-color:rgb(194, 246, 246);
+  
+}
+
+.KILO.comida img{
+    margin-right: 10%;
+
+}

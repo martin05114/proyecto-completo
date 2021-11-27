@@ -1,0 +1,44 @@
+h1 {
+    color:rgb(255, 255, 255);
+    font-size: 60px;
+    font-family: 'Lobster', cursive ;
+    
+    
+}
+h2 {
+    color:rgb(2, 2, 2);
+    font-size: 80px;
+    font-family: 'Lobster', cursive ;
+    width: 100%;
+    text-align: left;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    float: left;
+}
+
+a:link {
+    color: rgb(0, 102, 255);
+}
+
+a:visited {
+    color: rgb(1, 9, 12);
+}
+
+a:hover {
+    background-color: rgb(255, 214, 255);
+}
+
+a:active {
+    background-color: rgb(255, 214, 255);
+}
+
+a:focus {
+    background-color: rgb(26, 118, 223);
+}
+
+p {
+    text-align: justify;
+}
